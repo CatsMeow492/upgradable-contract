@@ -2,7 +2,7 @@ npm install --save-dev ganache-cli
 npx ganache-cli --deterministic 
 npm install --save-dev @openzeppelin/cli //This installs the openzep library in the working directory
 npx openzeppelin init
-npx oz deploy
+npx openzeppelin deploy
 
 npm install --save-dev hardhat
 npx hardhat
