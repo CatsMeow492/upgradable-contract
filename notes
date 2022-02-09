@@ -11,3 +11,5 @@ npx hardhat node
 npm install --save-dev @nomiclabs/hardhat-ethers ethers
 
 Use networks.js to chain the connected network. By default ganache-cli is set to 8545 and ganache ui is set to 7545
+
+npx openzeppelin upgrade // upgrades contract
