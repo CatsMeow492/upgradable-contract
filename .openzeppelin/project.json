@@ -2,7 +2,7 @@
   "manifestVersion": "2.2",
   "contracts": {},
   "dependencies": {},
-  "name": "upgradable-contract",
+  "name": "upgradable-contract ",
   "version": "1.0.0",
   "compiler": {
     "compilerSettings": {

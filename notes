@@ -2,3 +2,12 @@ npm install --save-dev ganache-cli
 npx ganache-cli --deterministic 
 npm install --save-dev @openzeppelin/cli //This installs the openzep library in the working directory
 npx openzeppelin init
+npx oz deploy
+
+npm install --save-dev hardhat
+npx hardhat
+npx hardhat compile
+npx hardhat node
+npm install --save-dev @nomiclabs/hardhat-ethers ethers
+
+Use networks.js to chain the connected network. By default ganache-cli is set to 8545 and ganache ui is set to 7545
